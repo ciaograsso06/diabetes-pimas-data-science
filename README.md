@@ -52,5 +52,5 @@ O projeto está organizado em um notebook contendo exercícios, onde são aplica
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/ciaograsso06/diabetes-pimas-data-science.git
    cd diabetes-pima-data-science
